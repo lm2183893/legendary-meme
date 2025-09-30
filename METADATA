@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: conda-repo-cli
+Version: 1.0.114
+Summary: Anaconda Repository command line client library
+Author: Anaconda, Inc
+Author-email: info@anaconda.com
+License: BSD License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+License-File: LICENSE.md
+Requires-Dist: PyYAML>=6.0.1
+Requires-Dist: requests>=2.31.0
+Requires-Dist: six
+Requires-Dist: platformdirs>=3.10.0
+Requires-Dist: urllib3>=2.2.2
+Requires-Dist: tabulate
+
